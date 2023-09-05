@@ -1,0 +1,11 @@
+@relation cars-weka.filters.unsupervised.instance.Resample-S0-Z30.0-no-replacement-V
+
+@attribute buying {vhigh,high,med,low}
+@attribute maint {vhigh,high,med,low}
+@attribute doors {2,3,4,5more}
+@attribute persons {2,4,more}
+@attribute lugboot {small,med,big}
+@attribute safety {low,med,high}
+@attribute class {unacc,acc,good,vgood}
+
+@data
